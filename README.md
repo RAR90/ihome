@@ -19,13 +19,11 @@ $ git clone https://github.com/RAR90/ihome
 #### 5. More, much more!
 [See more than 80 UX tools](https://teclabs.com.br/html/materialize.teclabs)
 
-``` javascript
-// /////////////////////////////////////////////////////////////////////
-// DEFAULT ASSETS
-// /////////////////////////////////////////////////////////////////////
+## Structure
+#### 1. Project level custom styles and scrips
 
-/* Browsersync options */
-var options = {
-	proxy: 'your-localhost-ip:your-http-port/your-project-folder',
-...
+Ex.:
+```sh
+$ npm install --production
+$ NODE_ENV=production node app
 ```
