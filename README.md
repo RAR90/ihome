@@ -2,6 +2,11 @@
 
 ### UX for iHome system based in Materialize Teclabs kit
 
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">
+
+[Follow these steps to coloring layout.](https://teclabs.com.br/html/ihome/)
+
+
 ## Usage
 ##### 1. Clone repository
 ``` bash
