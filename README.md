@@ -1,8 +1,7 @@
 # iHome UX kit
 
 ### UX for iHome system based in Materialize Teclabs kit
-
-## [LIVE DEMO](https://teclabs.com.br/html/ihome/)
+### [LIVE DEMO](https://teclabs.com.br/html/ihome/)
 
 ## Usage
 ##### 1. Clone repository
