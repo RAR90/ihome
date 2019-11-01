@@ -1,0 +1,78 @@
+/*================================================================================
+	Item Name: Teclabs - Materialize Dashboard
+	Version: 5.0
+	Author: TECLABS
+	Author URL: https://teclabs.com.br
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.conversion-ration-card,
+.recent-buyers-card,
+.user-statistics-card
+{
+	height: 340px
+}
+
+.translation-button
+{
+	display: none !important;
+}
+
+.text-orange
+{
+	color: #F90;
+}
+
+.card-inside-page
+{
+	margin-left: 10px;
+}
+
+.horizontal-menu-link a {
+	font-size: 15px;
+}
+
+.horizontal-menu-link:first-child {
+	margin-left: 10px;
+}
+
+.horizontal-menu-link > a:hover {
+	background-color: #242424 !important;
+}
+
+.horizontal-menu-link.active {
+	background-color: rgba(36, 36, 36, 0.3) !important;
+}
+
+.horizontal-menu-link > ul li,
+.horizontal-menu-link > ul li a
+{
+	padding: 0 !important;
+}
+
+.horizontal-menu-link > ul li
+{
+	line-height: 1 !important;
+	height: auto !important;
+}
+
+.horizontal-menu-link > ul li:last-child
+{
+	border: none !important;
+}
+
+.horizontal-menu-link > ul li a
+{
+	line-height: 1 !important;
+	height: auto !important;
+	padding: 10px !important;
+}
+
+.horizontal-menu ul ul.horizontal-submenu
+{
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, .3);
+}
